@@ -32,8 +32,6 @@ bun dev
 
 Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
 
-A página pode ser editada no arquivo `app/page.tsx`. As alterações são aplicadas automaticamente enquanto você edita.
-
 ---
 
 ## 🎨 Tecnologias
@@ -61,12 +59,3 @@ A forma mais simples de colocar sua aplicação Next.js no ar é através da [pl
 
 Consulte a [documentação de deploy do Next.js](https://nextjs.org/docs/app/building-your-application/deploying) para mais detalhes.
 
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Se quiser posso adicionar também um cabeçalho com título, badge de status, ícones sociais, etc. Quer que eu inclua?
