@@ -1,0 +1,45 @@
+{
+  "descrition": "Olá! Sou um profissional apaixonado por transformar ideias em soluções criativas e funcionais. Com sólida experiência em [sua área de atuação], busco constantemente aprimorar minhas habilidades e explorar novas tendências do mercado.",
+  "section": "Seção atual {count}",
+  "downloader": "Baixar Currículo",
+  "skills": [
+    {
+      "title": "Habilidades Técnicas",
+      "details": {
+        "time": "3",
+        "level": "Média",
+        "profissional": "Profissional1",
+        "description": "rrrr",
+        "link": "ul",
+        "educate": "React"
+      }
+    },
+    {
+      "title": "Habilidades Comportamentais",
+      "details": {
+        "time": "3",
+        "level": "Média",
+        "profissional": "Profissional1",
+        "description": "rrrr",
+        "link": "ul",
+        "educate": "React"
+      }
+    }
+  ],
+  "project": [
+    {
+      "id": "1",
+      "title": "Análise e Desenvolvimento de Sistemas",
+      "description": "Graduação em desenvolvimento de software e análise de sistemas.",
+      "date": "Fevereiro 2022 - Novembro 2023",
+      "type": "education",
+      "technologies": ["Java", "Python", "SQL", "UML"],
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:2000/format:webp/1*bH1IEVUplU1FWkaskemnOg@2x.png"
+    }
+  ],
+  "links":[ "https://www.linkedin.com/in/bruno-oliveira-1b1b1b1b1/","https://www.linkedin.com/in/bruno-oliveira-1b1b1b1b1/"],
+  "develop":"Stack Developer",
+  "avatar":"https://avatars.githubusercontent.com/u/68289275?v=4",
+  "profession":"Profissional",
+  "present":"Presente"
+}

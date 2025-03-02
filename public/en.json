@@ -1,0 +1,54 @@
+{
+  "descrition": "Passionate about technology, solving problems with code, and building digital experiences that make a difference. From front-end to back-end, I turn ideas into functional solutions, always striving for learning and innovation. Each line of code is a step in the journey, leaving a part of myself in every project. 🚀",
+  "section": "Current section {count}",  
+  "downloader": "Download Resume",
+  "downloadlink":"https://github.com/manassesCahunda/curriculo/blob/main/curriculo-3.pdf",
+  "skills": [
+    {
+      "title": "Habilidades Técnicas",
+      "details": {
+        "time": "3",
+        "level": "Média",
+        "profissional": "Profissional1",
+        "description": "rrrr",
+        "link": "ul",
+        "educate": "React"
+      }
+    },
+    {
+      "title": "Habilidades Comportamentais",
+      "details": {
+        "time": "3",
+        "level": "Média",
+        "profissional": "Profissional1",
+        "description": "rrrr",
+        "link": "ul",
+        "educate": "React"
+      }
+    }
+  ],
+  "project": [
+    {
+      "id": "1",
+      "title": "Análise e Desenvolvimento de Sistemas",
+      "description": "Graduação em desenvolvimento de software e análise de sistemas.",
+      "date": "Fevereiro 2022 - Novembro 2023",
+      "type": "education",
+      "technologies": ["Java", "Python", "SQL", "UML"],
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:2000/format:webp/1*bH1IEVUplU1FWkaskemnOg@2x.png",
+      "code":"https://github.com/manassesCahunda/neo"
+    }
+  ],
+   "contact":[
+    { "link": "https://www.linkedin.com/in/manass%C3%A9s-binga-156725350","avatar": "Linkedin" },
+    { "link": "https://github.com/manassesCahunda", "avatar": "Github" },
+    { "link": "mailto:manasssesbinga@gmail.com", "avatar": "Mail" },
+    { "link": "https://api.whatsapp.com/send?phone=244921712055", "avatar": "whatsApp" }
+  ],
+  "develop":"Stack Developer",
+  "avatar":"https://avatars.githubusercontent.com/u/68289275?v=4",
+  "profession":"DEVELOP FULLSTACK",
+  "present":"I AM MANASSES CAHUNDA"
+}
+
+
