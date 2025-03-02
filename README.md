@@ -1,7 +1,3 @@
-Aqui vai a versão aprimorada do seu `README.md`, traduzida para o português, com uma estrutura melhorada e as imagens adicionadas conforme solicitado:
-
----
-
 # 🚀 Projeto Next.js
 
 Este é um projeto criado com [Next.js](https://nextjs.org), inicializado com [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
@@ -12,7 +8,9 @@ Este é um projeto criado com [Next.js](https://nextjs.org), inicializado com [`
 
 <div align="center">
   <img src="./about.png" alt="Sobre" width="100%" />
+  <br/>
   <img src="./skills.png" alt="Habilidades" width="100%" />
+  <br/>
   <img src="./project.png" alt="Projetos" width="100%" />
 </div>
 
