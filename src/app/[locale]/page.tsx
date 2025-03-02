@@ -16,9 +16,9 @@ export default function HomePage() {
    
     return (
         <>
-            <web.div>
+            <div>
               <Fabs items={items} /> 
-            </web.div>
+            </div>
             <ScrollView>
                 <About/>    
                 <Project/>

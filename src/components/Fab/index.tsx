@@ -57,9 +57,9 @@ export const Fabs = ({ items }:FabsProps) => {
   }, [])
   
 
-  const backgroundTimeoutRef = useRef<ReturnType<typeof setTimeout>>()
-  const avatarTimeoutRef = useRef<ReturnType<typeof setTimeout>>()
-
+  const backgroundTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const avatarTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+  
   // Limpa os timeouts ao desmontar o componente
   useEffect(() => {
     return () => {
@@ -140,7 +140,7 @@ export const Fabs = ({ items }:FabsProps) => {
 
   const { onPointerEnter, onPointerLeave, onPointerDown, ...restGestures } = bindGestures()
 
-  const handlePointerDown = (isBackground: boolean) => (e: PointerEvent<HTMLElement>) => {
+  const handlePointerDown = (isBackground: boolean) => (e: React.PointerEvent<HTMLElement>) => {
     if (isBackground && !isVisible.current) return
     if (onPointerDown) onPointerDown(e)
   }

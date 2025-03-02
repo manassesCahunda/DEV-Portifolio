@@ -8,11 +8,15 @@ import { routing } from "@/i18n/route";
 
 interface LayoutProps {
   children: ReactNode;
-  params: { locale: string }
+  params: Promise<{ locale: string }>; // Atualizado para Promise
 }
 
 export const metadata = {
   title: "DEᐱ | Portfolio",
+  icons: {
+    icon: '/favicon.ico',
+  },
+  favicon: '/favicon.ico',
   description: "An impressive portfolio showcasing full stack development skills",
 };
 
