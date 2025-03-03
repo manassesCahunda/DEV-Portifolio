@@ -71,7 +71,7 @@ const ScrollView: React.FC<ScrollViewProps> = ({ children }: ScrollViewProps) =>
       {children}
 
       {/* Indicador da seção atual */}
-      <div className="fixed bottom-4 right-4 bg-black border text-sm text-white p-2">
+      <div className="fixed bottom-5 left-2/4 bg-black border text-sm text-white p-2">
         {t("section", { count: `: ${activeSection + 1}` })}
       </div>
 
