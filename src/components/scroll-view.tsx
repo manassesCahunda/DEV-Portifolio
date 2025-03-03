@@ -90,7 +90,7 @@ const ScrollView: React.FC<ScrollViewProps> = ({ children }: ScrollViewProps) =>
       </div>
 
       {/* Language Switcher */}
-      <div className="fixed bottom-1 left-3 p-2">
+      <div className="fixed top-2 right-5 p-2">
         <LanguageSwitcher />
       </div>
     </div>
