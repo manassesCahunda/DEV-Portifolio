@@ -161,11 +161,12 @@
   "profession": "FULLSTACK DEVELOPER",
   "develop": "go to Next technology",
   "present": "I AM MANASSES CAHUNDA",
+ {
   "project": [
     {
       "id": "1",
       "title": "Electron Project with Dolphin Anti API and Puppeteer",
-      "description": "This is a new Electron project, set up to integrate the Dolphin Anti API and use Puppeteer for browser automation.",
+      "description": "This is an Electron project configured to integrate the Dolphin Anti API and use Puppeteer for browser automation.",
       "date": "October 2024",
       "type": "work",
       "technologies": ["Electron", "Puppeteer"],
@@ -175,32 +176,42 @@
     {
       "id": "2",
       "title": "FacePointModel",
-      "description": "A demo project using the Next.js framework to create a web application displaying real-time face mesh detection with MediaPipe. Additionally, it integrates a 3D scene with Three.js for interactive visualization.",
+      "description": "Demonstration project that uses Next.js to create a web application with real-time face mesh detection using the MediaPipe library. Additionally, it integrates a 3D scene with Three.js for an extra interactive visualization.",
       "date": "October 2024",
       "type": "education",
-      "technologies": ["Next.js", "three.js", "MediaPipe", "React"],
+      "technologies": ["Next.js", "Three.js", "MediaPipe", "React"],
       "imageUrl": "https://github.com/manassesCahunda/FacePointModel/raw/main/demo1.png",
       "code": "https://github.com/manassesCahunda/FacePointModel"
     },
     {
       "id": "3",
-      "title": "Bumba Service Application",
-      "description": "We developed an innovative service application using React Native, connecting service providers with clients seeking specific solutions, featuring intuitive interfaces and advanced functionality.",
+      "title": "Bumba - Service Providing App",
+      "description": "Innovative service providing app developed with React Native. It connects service providers and clients, making it easy to register and search for professionals in your area. It features an intuitive interface and advanced functionalities.",
       "date": "August 2023 - January 2024",
       "type": "education",
       "technologies": ["React Native", "Redux", "Firebase", "React Navigation", "Mapbox/Google Maps", "Expo"],
-      "imageUrl": "https://github.com/manassesCahunda/bumbas/raw/main/Group.png",
+      "imageUrl": "https://github.com/manassesCahunda/bumbas/raw/main/Group.jpg",
       "code": "https://github.com/manassesCahunda/bumbas"
     },
     {
       "id": "4",
       "title": "Neo Smart Business",
-      "description": "A platform to manage transaction attachments using AI to extract and organize file content, integrating a virtual AI assistant for WhatsApp.",
+      "description": "Platform to manage transaction attachments using AI to extract and organize file contents and data. Allows sending attachments via email or through the platform's dashboard, integrated with a virtual assistant via WhatsApp.",
       "date": "November 2024 - January 2025",
       "type": "education",
       "technologies": ["Next.js", "tRPC", "Drizzle", "Supabase", "Nodemailer", "Turbo Monorepo"],
       "imageUrl": "https://github.com/manassesCahunda/neo/raw/main/login.png",
       "code": "https://github.com/manassesCahunda/neo"
+    },
+    {
+      "id": "5",
+      "title": "Dev Portfolio",
+      "description": "Personal portfolio developed to showcase my projects and skills as a developer.",
+      "date": "March 2025",
+      "type": "work",
+      "technologies": ["Next.js", "Three.js", "next-intl"],
+      "imageUrl": "https://github.com/manassesCahunda/DEV-Portifolio/raw/main/about.png",
+      "code": "https://github.com/manassesCahunda/DEV-Portifolio"
     }
   ]
 }
