@@ -212,5 +212,11 @@
       "imageUrl": "https://github.com/manassesCahunda/DEV-Portifolio/raw/main/about.png",
       "code": "https://github.com/manassesCahunda/DEV-Portifolio"
     }
-  ]
+  ],
+  "contact":[
+    { "link": "https://www.linkedin.com/in/manassescahunda","avatar": "Linkedin" },
+    { "link": "https://github.com/manassesCahunda", "avatar": "Github" },
+    { "link": "mailto:manasssesbinga@gmail.com", "avatar": "Mail" },
+    { "link": "https://api.whatsapp.com/send?phone=244921712055", "avatar": "whatsApp" }
+  ],
 }
