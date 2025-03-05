@@ -155,7 +155,10 @@
   "section": "Current section {count}",
   "downloader": "Download Resume",
   "downloadlink": "https://github.com/manassesCahunda/curriculo/blob/main/curriculoEnglish.pdf"
-  "avatar": "https://github.com/manassesCahunda/curriculo/blob/main/avatar.png",
+  "avatar": "https://drive.google.com/file/d/1v_RriDKEHoSIDSBo76GVgV3Gf07qFX_E/view?usp=drive_link",
+  "profession":"DEVELOP FULLSTACK",
+  "develop":"Stack Developer",
+  "present":"I AM MANASSES CAHUNDA"
   "project": [
     {
       "id": "1",
