@@ -4,8 +4,8 @@
       "title": "React",
       "details": {
         "time": "4",
-        "level": "Pleno",
-        "profissional": "Processo de uma semana para testar meus conhecimentos em React com diferentes frameworks.",
+        "level": "Mid-level",
+        "professional": "One-week process to test my knowledge in React with different frameworks.",
         "link": "https://app.rocketseat.com.br/certificates/4b0cfc8a-daa5-48a0-b51a-fde5e0d4f1de",
         "educate": "React"
       }
@@ -14,8 +14,8 @@
       "title": "Next.js",
       "details": {
         "time": "4",
-        "level": "Pleno",
-        "profissional": "Processo de uma semana para testar meus conhecimentos em Next.js.",
+        "level": "Mid-level",
+        "professional": "One-week process to test my knowledge in Next.js.",
         "link": "https://app.rocketseat.com.br/certificates/4b0cfc8a-daa5-48a0-b51a-fde5e0d4f1de",
         "educate": "Next.js"
       }
@@ -24,9 +24,9 @@
       "title": "Supabase",
       "details": {
         "time": "3",
-        "level": "Pleno",
-        "profissional": "Processo de uma semana para testar meus conhecimentos em Supabase.",
-        "link": "sem link",
+        "level": "Mid-level",
+        "professional": "One-week process to test my knowledge in Supabase.",
+        "link": "no link",
         "educate": "Supabase"
       }
     },
@@ -34,9 +34,9 @@
       "title": "Postgres",
       "details": {
         "time": "5",
-        "level": "Pleno",
-        "profissional": "Processo de uma semana para testar meus conhecimentos em Postgres.",
-        "link": "sem link",
+        "level": "Mid-level",
+        "professional": "One-week process to test my knowledge in Postgres.",
+        "link": "no link",
         "educate": "Postgres"
       }
     },
@@ -44,9 +44,9 @@
       "title": "TypeScript",
       "details": {
         "time": "5",
-        "level": "Pleno",
-        "profissional": "Processo de uma semana para testar meus conhecimentos em TypeScript.",
-        "link": "sem link",
+        "level": "Mid-level",
+        "professional": "One-week process to test my knowledge in TypeScript.",
+        "link": "no link",
         "educate": "TypeScript"
       }
     },
@@ -54,9 +54,9 @@
       "title": "MySQL",
       "details": {
         "time": "5",
-        "level": "Pleno",
-        "profissional": "Processo de uma semana para testar meus conhecimentos em MySQL.",
-        "link": "sem link",
+        "level": "Mid-level",
+        "professional": "One-week process to test my knowledge in MySQL.",
+        "link": "no link",
         "educate": "MySQL"
       }
     },
@@ -64,9 +64,9 @@
       "title": "Kubernetes",
       "details": {
         "time": "2",
-        "level": "Médio",
-        "profissional": "Processo de uma semana para testar meus conhecimentos em Kubernetes.",
-        "link": "sem link",
+        "level": "Intermediate",
+        "professional": "One-week process to test my knowledge in Kubernetes.",
+        "link": "no link",
         "educate": "Kubernetes"
       }
     },
@@ -74,8 +74,8 @@
       "title": "ORMs",
       "details": {
         "time": "2",
-        "level": "Pleno",
-        "profissional": "Experiência com Drizzle, Sequelize e Prisma.",
+        "level": "Mid-level",
+        "professional": "Experience with Drizzle, Sequelize, and Prisma.",
         "link": "none",
         "educate": "ORMs"
       }
@@ -84,18 +84,18 @@
       "title": "Node.js",
       "details": {
         "time": "5",
-        "level": "Pleno",
-        "profissional": "Experiência com Drizzle, Sequelize e Prisma.",
+        "level": "Mid-level",
+        "professional": "Experience with Drizzle, Sequelize, and Prisma.",
         "link": "https://app.rocketseat.com.br/certificates/a03cd2c8-3eb3-4ba4-bb0c-c9cea2f843b9",
         "educate": "Node.js"
       }
     },
     {
-      "title": "Full Web (HTML, CSS e JS)",
+      "title": "Full Web (HTML, CSS, and JS)",
       "details": {
         "time": "5",
-        "level": "Profissional",
-        "profissional": "Princípios e conceitos avançados.",
+        "level": "Professional",
+        "professional": "Advanced principles and concepts.",
         "link": "https://app.rocketseat.com.br/certificates/0eb92c4e-d5e7-4db8-a140-9f2f12df683c",
         "educate": "Full Web"
       }
@@ -104,8 +104,8 @@
       "title": "Coolify",
       "details": {
         "time": "2",
-        "level": "Médio",
-        "profissional": "Princípios e conceitos avançados.",
+        "level": "Intermediate",
+        "professional": "Advanced principles and concepts.",
         "link": "none",
         "educate": "Coolify"
       }
@@ -114,8 +114,8 @@
       "title": "GitHub",
       "details": {
         "time": "4",
-        "level": "Médio",
-        "profissional": "Princípios e conceitos avançados.",
+        "level": "Intermediate",
+        "professional": "Advanced principles and concepts.",
         "link": "none",
         "educate": "GitHub"
       }
@@ -124,8 +124,8 @@
       "title": "Git",
       "details": {
         "time": "4",
-        "level": "Médio",
-        "profissional": "Princípios e conceitos avançados.",
+        "level": "Intermediate",
+        "professional": "Advanced principles and concepts.",
         "link": "none",
         "educate": "Git"
       }
@@ -134,8 +134,8 @@
       "title": "Docker",
       "details": {
         "time": "4",
-        "level": "Médio",
-        "profissional": "Princípios e conceitos avançados.",
+        "level": "Intermediate",
+        "professional": "Advanced principles and concepts.",
         "link": "none",
         "educate": "Docker"
       }
@@ -144,70 +144,62 @@
       "title": "Angular",
       "details": {
         "time": "2",
-        "level": "Médio",
-        "profissional": "Princípios e conceitos avançados.",
+        "level": "Intermediate",
+        "professional": "Advanced principles and concepts.",
         "link": "none",
         "educate": "Angular"
       }
     }
   ],
-  "description": "Sometimes, it's the simplest yet ingenious solutions that make the difference. Passionate about technology, solving problems with code, and building digital experiences that make a difference. From front-end to back-end, I turn ideas into functional solutions, always striving for learning and innovation. Each line of code is a step in the journey, leaving a part of myself in every project. 🚀",
+  "phrase": "Sometimes, it's the simplest yet ingenious solutions that make the difference.",
+  "description": "Passionate about technology, solving problems with code, and building digital experiences that make a difference. From front-end to back-end, I turn ideas into functional solutions, always striving for learning and innovation. Each line of code is a step in the journey, leaving a part of myself in every project. 🚀",
   "section": "Current section {count}",
   "downloader": "Download Resume",
-  "downloadlink": "https://github.com/manassesCahunda/curriculo/blob/main/curriculoEnglish.pdf",
-  "avatar": "https://drive.google.com/file/d/1v_RriDKEHoSIDSBo76GVgV3Gf07qFX_E/view?usp=drive_link",
-  "profession":"DEVELOP FULLSTACK",
-  "develop":"Stack Developer",
-  "present":"I AM MANASSES CAHUNDA",
+  "downloadlink": "https://github.com/manassesCahunda/curriculo/raw/main/curriculoEnglish.pdf",
+  "avatar": "https://github.com/manassesCahunda/curriculo/raw/main/avatar.png",
+  "profession": "FULLSTACK DEVELOPER",
+  "develop": "Stack Developer",
+  "present": "I AM MANASSES CAHUNDA",
   "project": [
     {
       "id": "1",
-      "title": "Projeto Electron com API Dolphin Anti e Puppeteer",
-      "description": "Este é um novo projeto Electron, configurado para integrar a API Dolphin Anti e usar o Puppeteer para automação de navegador.",
-      "date": " Outubro 2024",
+      "title": "Electron Project with Dolphin Anti API and Puppeteer",
+      "description": "This is a new Electron project, set up to integrate the Dolphin Anti API and use Puppeteer for browser automation.",
+      "date": "October 2024",
       "type": "work",
       "technologies": ["Electron", "Puppeteer"],
-      "imageUrl": "https://github.com/manassesCahunda/Pixier/blob/main/Captura%20de%20ecr%C3%A3%202024-08-11%20183626.png",
-      "code":"https://github.com/manassesCahunda/Pixier"
-    },{
+      "imageUrl": "https://github.com/manassesCahunda/Pixier/raw/main/imagem.png",
+      "code": "https://github.com/manassesCahunda/Pixier"
+    },
+    {
       "id": "2",
       "title": "FacePointModel",
-      "description": "é um projeto de demonstração que utiliza o framework Next.js para criar uma aplicação web que exibe detecção de malha facial em tempo real usando a biblioteca MediaPipe. Além disso, a aplicação integra uma cena 3D utilizando Three.js para uma visualização interativa adicional.",
-      "date": "Outubro 2024",
+      "description": "A demo project using the Next.js framework to create a web application displaying real-time face mesh detection with MediaPipe. Additionally, it integrates a 3D scene with Three.js for interactive visualization.",
+      "date": "October 2024",
       "type": "education",
-      "technologies": ["Next.js", "three.js","MediaPipe","React"],
+      "technologies": ["Next.js", "three.js", "MediaPipe", "React"],
       "imageUrl": "https://github.com/manassesCahunda/FacePointModel/raw/main/demo1.png",
-      "code":"https://github.com/manassesCahunda/FacePointModel"
+      "code": "https://github.com/manassesCahunda/FacePointModel"
     },
     {
       "id": "3",
-      "title": "Bumba aplicativo de prestação de serviços",
-      "description": "Desenvolvemos um aplicativo inovador de prestação de serviços utilizando React Native, uma das tecnologias mais modernas para o desenvolvimento de aplicativos móveis. Este sistema conecta prestadores de serviços com clientes em busca de soluções específicas, facilitando o cadastro de serviços e a busca por prestadores na sua área. Com uma interface intuitiva e funcionalidades avançadas.",
-      "date": "Agosto 2023  -  janeiro 2024",
+      "title": "Bumba Service Application",
+      "description": "We developed an innovative service application using React Native, connecting service providers with clients seeking specific solutions, featuring intuitive interfaces and advanced functionality.",
+      "date": "August 2023 - January 2024",
       "type": "education",
-      "technologies": ["React Native", "Redux","Firebase","React Navigation","Mapbox/Google Maps","Expo"],
-      "imageUrl": "https://github.com/manassesCahunda/bumbas/blob/main/Imagem%20WhatsApp%202024-07-12%20%C3%A0s%2000.33.01_b0be034e.jpg",
-      "code":"https://github.com/manassesCahunda/bumbas"
+      "technologies": ["React Native", "Redux", "Firebase", "React Navigation", "Mapbox/Google Maps", "Expo"],
+      "imageUrl": "https://github.com/manassesCahunda/bumbas/raw/main/Group.png",
+      "code": "https://github.com/manassesCahunda/bumbas"
     },
-  {
+    {
       "id": "4",
       "title": "Neo Smart Business",
-      "description": "E uma plataforma para gerenciar anexo de transacões que utiliza Ai para extrair e organizar o conteúdo aramenad tanto ficheiro quanto so dados simplemente enviando os anexo pela caixa email ou no painel da plataforma os dados vem integrado assisnte virtual -Ai para whatsApp",
-      "date": "Novembro 2024  -  janeiro 2025",
+      "description": "A platform to manage transaction attachments using AI to extract and organize file content, integrating a virtual AI assistant for WhatsApp.",
+      "date": "November 2024 - January 2025",
       "type": "education",
-      "technologies": ["Next.js", "trpc","drizzle","supabase","nodemailer","turbo monorepo"],
-      "imageUrl": "https://github.com/manassesCahunda/neo/blob/main/login.png",
-      "code":"https://github.com/manassesCahunda/neo"
-    },
-  {
-      "id": "5",
-      "title": "Portifolio para Dev",
-      "description": "E portifólio que usando para apresentar o desenvolver do em se",
-      "date": "Marco 2025",
-      "type": "work",
-      "technologies": ["Next.js","three","next-intl"],
-      "imageUrl": "https://github.com/manassesCahunda/DEV-Portifolio/raw/main/about.png",
-      "code":"https://github.com/manassesCahunda/DEV-Portifolio"
-    },
+      "technologies": ["Next.js", "tRPC", "Drizzle", "Supabase", "Nodemailer", "Turbo Monorepo"],
+      "imageUrl": "https://github.com/manassesCahunda/neo/raw/main/login.png",
+      "code": "https://github.com/manassesCahunda/neo"
+    }
   ]
 }
