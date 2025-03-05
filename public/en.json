@@ -154,11 +154,11 @@
   "description": "Sometimes, it's the simplest yet ingenious solutions that make the difference. Passionate about technology, solving problems with code, and building digital experiences that make a difference. From front-end to back-end, I turn ideas into functional solutions, always striving for learning and innovation. Each line of code is a step in the journey, leaving a part of myself in every project. 🚀",
   "section": "Current section {count}",
   "downloader": "Download Resume",
-  "downloadlink": "https://github.com/manassesCahunda/curriculo/blob/main/curriculoEnglish.pdf"
+  "downloadlink": "https://github.com/manassesCahunda/curriculo/blob/main/curriculoEnglish.pdf",
   "avatar": "https://drive.google.com/file/d/1v_RriDKEHoSIDSBo76GVgV3Gf07qFX_E/view?usp=drive_link",
   "profession":"DEVELOP FULLSTACK",
   "develop":"Stack Developer",
-  "present":"I AM MANASSES CAHUNDA"
+  "present":"I AM MANASSES CAHUNDA",
   "project": [
     {
       "id": "1",
