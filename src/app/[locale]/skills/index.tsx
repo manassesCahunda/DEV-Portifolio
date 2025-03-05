@@ -49,7 +49,7 @@ export const Skills = () => {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen" style={{ backgroundColor }}>
-      <Section title={t('develop')} className="h-screen w-full flex items-center justify-center snap-start">
+      <Section title={t('stack')} className="h-screen w-full flex items-center justify-center snap-start">
         <br />
         <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} className="w-full max-w-md rounded-lg p-6 shadow-lg bg-white">
           <div className="flex items-center justify-between mb-4">
