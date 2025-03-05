@@ -119,7 +119,7 @@ export const Skills = () => {
             className="w-full bg-black text-white rounded-lg py-3 font-medium hover:bg-gray-900 transition-colors"
             onClick={handleRefresh}
           >
-            Ir para Próximo {t('develop')}
+            {t('develop')}
           </motion.button>
         </motion.div>
       </Section>
