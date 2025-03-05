@@ -5,7 +5,7 @@
       "details": {
         "time": "4",
         "level": "Pleno",
-        "profissional": "Descrição: foi um processo de uma semana para testar meus conhecimentos em React com diferentes frameworks.",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em React com diferentes frameworks.",
         "link": "https://app.rocketseat.com.br/certificates/4b0cfc8a-daa5-48a0-b51a-fde5e0d4f1de",
         "educate": "React"
       }
@@ -15,7 +15,7 @@
       "details": {
         "time": "4",
         "level": "Pleno",
-        "profissional": "Descrição: foi um processo de uma semana para testar meus conhecimentos em Next.js.",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em Next.js.",
         "link": "https://app.rocketseat.com.br/certificates/4b0cfc8a-daa5-48a0-b51a-fde5e0d4f1de",
         "educate": "Next.js"
       }
@@ -25,19 +25,19 @@
       "details": {
         "time": "3",
         "level": "Pleno",
-        "profissional": "Descrição: foi um processo de uma semana para testar meus conhecimentos em Supabase.",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em Supabase.",
         "link": "sem link",
         "educate": "Supabase"
       }
     },
     {
-      "title": "PostgreSQL",
+      "title": "Postgres",
       "details": {
         "time": "5",
         "level": "Pleno",
-        "profissional": "Descrição: foi um processo de uma semana para testar meus conhecimentos em PostgreSQL.",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em Postgres.",
         "link": "sem link",
-        "educate": "PostgreSQL"
+        "educate": "Postgres"
       }
     },
     {
@@ -45,7 +45,7 @@
       "details": {
         "time": "5",
         "level": "Pleno",
-        "profissional": "Descrição: foi um processo de uma semana para testar meus conhecimentos em TypeScript.",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em TypeScript.",
         "link": "sem link",
         "educate": "TypeScript"
       }
@@ -55,7 +55,7 @@
       "details": {
         "time": "5",
         "level": "Pleno",
-        "profissional": "Descrição: foi um processo de uma semana para testar meus conhecimentos em MySQL.",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em MySQL.",
         "link": "sem link",
         "educate": "MySQL"
       }
@@ -65,7 +65,7 @@
       "details": {
         "time": "2",
         "level": "Médio",
-        "profissional": "Descrição: foi um processo de uma semana para testar meus conhecimentos em Kubernetes.",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em Kubernetes.",
         "link": "sem link",
         "educate": "Kubernetes"
       }
@@ -91,13 +91,13 @@
       }
     },
     {
-      "title": "Desenvolvimento Web (HTML, CSS e JavaScript)",
+      "title": "Full Web (HTML, CSS e JS)",
       "details": {
         "time": "5",
         "level": "Profissional",
         "profissional": "Princípios e conceitos avançados.",
         "link": "https://app.rocketseat.com.br/certificates/0eb92c4e-d5e7-4db8-a140-9f2f12df683c",
-        "educate": "Desenvolvimento Web"
+        "educate": "Full Web"
       }
     },
     {
@@ -151,38 +151,64 @@
       }
     }
   ],
-  "description": "As vezes, são as soluções mais simples, mas engenhosas, que fazem a diferença. apaixonado por tecnologia, resolver problemas com código e construir experiências digitais que fazem a diferença. Do front-end ao back-end, transformo ideias em soluções funcionais, sempre buscando aprendizado e inovação. Cada linha de código é um passo na jornada, deixando uma parte de mim em cada projeto. 🚀",
-  "section": "Seção atual {count}",
-  "downloader": "Baixar Currículo",
-  "curriculo": {
-    "en": {
-      "downloadLink": "https://github.com/manassesCahunda/curriculo/blob/main/curriculoEnglish.pdf"
-    },
-    "pt": {
-      "downloadLink": "https://github.com/manassesCahunda/curriculo/blob/main/curriculoPortugues.pdf"
-    }
-  },
-  "avatar": "https://github.com/manassesCahunda/curriculo/blob/main/avatar.png",
-  "projects": [
+  "frase":"Sometimes, it's the simplest yet ingenious solutions that make the difference.",
+  "description": "Passionate about technology, solving problems with code, and building digital experiences that make a difference. From front-end to back-end, I turn ideas into functional solutions, always striving for learning and innovation. Each line of code is a step in the journey, leaving a part of myself in every project. 🚀",
+  "section": "Current section {count}",
+  "downloader": "Download Resume",
+  "downloadlink": "https://github.com/manassesCahunda/curriculo/raw/main/curriculoEnglish.pdf",
+  "avatar": "https://github.com/manassesCahunda/curriculo/raw/main/avatar.png",
+  "profession":"DEVELOP FULLSTACK",
+  "develop":"Stack Developer",
+  "present":"I AM MANASSES CAHUNDA",
+  "project": [
     {
       "id": "1",
       "title": "Projeto Electron com API Dolphin Anti e Puppeteer",
       "description": "Este é um novo projeto Electron, configurado para integrar a API Dolphin Anti e usar o Puppeteer para automação de navegador.",
-      "date": "Outubro 2024",
+      "date": " Outubro 2024",
       "type": "work",
       "technologies": ["Electron", "Puppeteer"],
-      "imageUrl": "https://github.com/manassesCahunda/Pixier/blob/main/Captura%20de%20ecr%C3%A3%202024-08-11%20183626.png",
-      "code": "https://github.com/manassesCahunda/Pixier"
-    },
-    {
+      "imageUrl": "https://github.com/manassesCahunda/Pixier/raw/main/imagem.png",
+      "code":"https://github.com/manassesCahunda/Pixier"
+    },{
       "id": "2",
       "title": "FacePointModel",
-      "description": "Projeto que utiliza Next.js para criar uma aplicação web que exibe detecção de malha facial em tempo real usando a biblioteca MediaPipe. Além disso, integra uma cena 3D com Three.js para visualização interativa.",
+      "description": "é um projeto de demonstração que utiliza o framework Next.js para criar uma aplicação web que exibe detecção de malha facial em tempo real usando a biblioteca MediaPipe. Além disso, a aplicação integra uma cena 3D utilizando Three.js para uma visualização interativa adicional.",
       "date": "Outubro 2024",
       "type": "education",
-      "technologies": ["Next.js", "Three.js", "MediaPipe", "React"],
+      "technologies": ["Next.js", "three.js","MediaPipe","React"],
       "imageUrl": "https://github.com/manassesCahunda/FacePointModel/raw/main/demo1.png",
-      "code": "https://github.com/manassesCahunda/FacePointModel"
+      "code":"https://github.com/manassesCahunda/FacePointModel"
+    },
+    {
+      "id": "3",
+      "title": "Bumba aplicativo de prestação de serviços",
+      "description": "Desenvolvemos um aplicativo inovador de prestação de serviços utilizando React Native, uma das tecnologias mais modernas para o desenvolvimento de aplicativos móveis. Este sistema conecta prestadores de serviços com clientes em busca de soluções específicas, facilitando o cadastro de serviços e a busca por prestadores na sua área. Com uma interface intuitiva e funcionalidades avançadas.",
+      "date": "Agosto 2023  -  janeiro 2024",
+      "type": "education",
+      "technologies": ["React Native", "Redux","Firebase","React Navigation","Mapbox/Google Maps","Expo"],
+      "imageUrl": "https://github.com/manassesCahunda/bumbas/raw/main/Group.png",
+      "code":"https://github.com/manassesCahunda/bumbas"
+    },
+  {
+      "id": "4",
+      "title": "Neo Smart Business",
+      "description": "E uma plataforma para gerenciar anexo de transacões que utiliza Ai para extrair e organizar o conteúdo aramenad tanto ficheiro quanto so dados simplemente enviando os anexo pela caixa email ou no painel da plataforma os dados vem integrado assisnte virtual -Ai para whatsApp",
+      "date": "Novembro 2024  -  janeiro 2025",
+      "type": "education",
+      "technologies": ["Next.js", "trpc","drizzle","supabase","nodemailer","turbo monorepo"],
+      "imageUrl": "https://github.com/manassesCahunda/neo/raw/main/login.png",
+      "code":"https://github.com/manassesCahunda/neo"
+    },
+  {
+      "id": "5",
+      "title": "Portifolio para Dev",
+      "description": "E portifólio que usando para apresentar o desenvolver do em se",
+      "date": "Marco 2025",
+      "type": "work",
+      "technologies": ["Next.js","three","next-intl"],
+      "imageUrl": "https://github.com/manassesCahunda/DEV-Portifolio/raw/main/about.png",
+      "code":"https://github.com/manassesCahunda/DEV-Portifolio"
     }
   ]
 }
