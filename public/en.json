@@ -1,54 +1,196 @@
 {
-  "descrition": "Passionate about technology, solving problems with code, and building digital experiences that make a difference. From front-end to back-end, I turn ideas into functional solutions, always striving for learning and innovation. Each line of code is a step in the journey, leaving a part of myself in every project. 🚀",
-  "section": "Current section {count}",  
-  "downloader": "Download Resume",
-  "downloadlink":"https://github.com/manassesCahunda/curriculo/blob/main/curriculo-3.pdf",
   "skills": [
     {
-      "title": "Habilidades Técnicas",
+      "title": "React",
       "details": {
-        "time": "3",
-        "level": "Média",
-        "profissional": "Profissional1",
-        "description": "rrrr",
-        "link": "ul",
+        "time": "4",
+        "level": "Pleno",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em React com diferentes frameworks.",
+        "link": "https://app.rocketseat.com.br/certificates/4b0cfc8a-daa5-48a0-b51a-fde5e0d4f1de",
         "educate": "React"
       }
     },
     {
-      "title": "Habilidades Comportamentais",
+      "title": "Next.js",
+      "details": {
+        "time": "4",
+        "level": "Pleno",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em Next.js.",
+        "link": "https://app.rocketseat.com.br/certificates/4b0cfc8a-daa5-48a0-b51a-fde5e0d4f1de",
+        "educate": "Next.js"
+      }
+    },
+    {
+      "title": "Supabase",
       "details": {
         "time": "3",
-        "level": "Média",
-        "profissional": "Profissional1",
-        "description": "rrrr",
-        "link": "ul",
-        "educate": "React"
+        "level": "Pleno",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em Supabase.",
+        "link": "sem link",
+        "educate": "Supabase"
+      }
+    },
+    {
+      "title": "Postgres",
+      "details": {
+        "time": "5",
+        "level": "Pleno",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em Postgres.",
+        "link": "sem link",
+        "educate": "Postgres"
+      }
+    },
+    {
+      "title": "TypeScript",
+      "details": {
+        "time": "5",
+        "level": "Pleno",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em TypeScript.",
+        "link": "sem link",
+        "educate": "TypeScript"
+      }
+    },
+    {
+      "title": "MySQL",
+      "details": {
+        "time": "5",
+        "level": "Pleno",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em MySQL.",
+        "link": "sem link",
+        "educate": "MySQL"
+      }
+    },
+    {
+      "title": "Kubernetes",
+      "details": {
+        "time": "2",
+        "level": "Médio",
+        "profissional": "Processo de uma semana para testar meus conhecimentos em Kubernetes.",
+        "link": "sem link",
+        "educate": "Kubernetes"
+      }
+    },
+    {
+      "title": "ORMs",
+      "details": {
+        "time": "2",
+        "level": "Pleno",
+        "profissional": "Experiência com Drizzle, Sequelize e Prisma.",
+        "link": "none",
+        "educate": "ORMs"
+      }
+    },
+    {
+      "title": "Node.js",
+      "details": {
+        "time": "5",
+        "level": "Pleno",
+        "profissional": "Experiência com Drizzle, Sequelize e Prisma.",
+        "link": "https://app.rocketseat.com.br/certificates/a03cd2c8-3eb3-4ba4-bb0c-c9cea2f843b9",
+        "educate": "Node.js"
+      }
+    },
+    {
+      "title": "Full Web (HTML, CSS e JS)",
+      "details": {
+        "time": "5",
+        "level": "Profissional",
+        "profissional": "Princípios e conceitos avançados.",
+        "link": "https://app.rocketseat.com.br/certificates/0eb92c4e-d5e7-4db8-a140-9f2f12df683c",
+        "educate": "Full Web"
+      }
+    },
+    {
+      "title": "Coolify",
+      "details": {
+        "time": "2",
+        "level": "Médio",
+        "profissional": "Princípios e conceitos avançados.",
+        "link": "none",
+        "educate": "Coolify"
+      }
+    },
+    {
+      "title": "GitHub",
+      "details": {
+        "time": "4",
+        "level": "Médio",
+        "profissional": "Princípios e conceitos avançados.",
+        "link": "none",
+        "educate": "GitHub"
+      }
+    },
+    {
+      "title": "Git",
+      "details": {
+        "time": "4",
+        "level": "Médio",
+        "profissional": "Princípios e conceitos avançados.",
+        "link": "none",
+        "educate": "Git"
+      }
+    },
+    {
+      "title": "Docker",
+      "details": {
+        "time": "4",
+        "level": "Médio",
+        "profissional": "Princípios e conceitos avançados.",
+        "link": "none",
+        "educate": "Docker"
+      }
+    },
+    {
+      "title": "Angular",
+      "details": {
+        "time": "2",
+        "level": "Médio",
+        "profissional": "Princípios e conceitos avançados.",
+        "link": "none",
+        "educate": "Angular"
       }
     }
   ],
+  "description": "Passionate about technology, solving problems with code, and building digital experiences that make a difference. From front-end to back-end, I turn ideas into functional solutions, always striving for learning and innovation. Each line of code is a step in the journey, leaving a part of myself in every project. 🚀",
+  "section": "Current section {count}",
+  "downloader": "Download Resume",
+  "curriculo_en": {
+    "downloadlink": "https://github.com/manassesCahunda/curriculo/blob/main/curriculoEnglish.pdf"
+  },
+  "curriculo_pt": {
+    "downloadlink": "https://github.com/manassesCahunda/curriculo/blob/main/curriculoPortugues.pdf"
+  },
+  "avatar": "https://github.com/manassesCahunda/curriculo/blob/main/avatar.png",
   "project": [
     {
       "id": "1",
-      "title": "Análise e Desenvolvimento de Sistemas",
-      "description": "Graduação em desenvolvimento de software e análise de sistemas.",
-      "date": "Fevereiro 2022 - Novembro 2023",
+      "title": "Projeto Electron com API Dolphin Anti e Puppeteer",
+      "description": "Projeto Electron integrado com a API Dolphin Anti e Puppeteer para automação de navegador.",
+      "date": "Outubro 2024",
+      "type": "work",
+      "technologies": ["Electron", "Puppeteer"],
+      "imageUrl": "https://github.com/manassesCahunda/Pixier/blob/main/Captura%20de%20ecr%C3%A3%202024-08-11%20183626.png",
+      "code": "https://github.com/manassesCahunda/Pixier"
+    },
+    {
+      "id": "2",
+      "title": "FacePointModel",
+      "description": "Demonstração que usa Next.js para detecção de malha facial em tempo real com MediaPipe e visualização 3D com Three.js.",
+      "date": "Outubro 2024",
       "type": "education",
-      "technologies": ["Java", "Python", "SQL", "UML"],
-      "imageUrl": "https://miro.medium.com/v2/resize:fit:2000/format:webp/1*bH1IEVUplU1FWkaskemnOg@2x.png",
-      "code":"https://github.com/manassesCahunda/neo"
+      "technologies": ["Next.js", "Three.js", "MediaPipe", "React"],
+      "imageUrl": "https://github.com/manassesCahunda/FacePointModel/raw/main/demo1.png",
+      "code": "https://github.com/manassesCahunda/FacePointModel"
+    },
+    {
+      "id": "3",
+      "title": "Bumba - Aplicativo de Prestação de Serviços",
+      "description": "App para conectar prestadores e clientes usando React Native, Redux e Firebase.",
+      "date": "Agosto 2023 - Janeiro 2024",
+      "type": "education",
+      "technologies": ["React Native", "Redux", "Firebase", "React Navigation", "Mapbox/Google Maps", "Expo"],
+      "imageUrl": "https://github.com/manassesCahunda/bumbas/blob/main/Imagem%20WhatsApp%202024-07-12%20%C3%A0s%2000.33.01_b0be034e.jpg",
+      "code": "https://github.com/manassesCahunda/bumbas"
     }
-  ],
-   "contact":[
-    { "link": "https://www.linkedin.com/in/manass%C3%A9s-binga-156725350","avatar": "Linkedin" },
-    { "link": "https://github.com/manassesCahunda", "avatar": "Github" },
-    { "link": "mailto:manasssesbinga@gmail.com", "avatar": "Mail" },
-    { "link": "https://api.whatsapp.com/send?phone=244921712055", "avatar": "whatsApp" }
-  ],
-  "develop":"Stack Developer",
-  "avatar":"https://avatars.githubusercontent.com/u/68289275?v=4",
-  "profession":"DEVELOP FULLSTACK",
-  "present":"I AM MANASSES CAHUNDA"
+  ]
 }
-
-
