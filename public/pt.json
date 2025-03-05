@@ -76,7 +76,7 @@
         "time": "2",
         "level": "Pleno",
         "profissional": "Experiência com Drizzle, Sequelize e Prisma.",
-        "link": "none",
+        "link": "nenhum",
         "educate": "ORMs"
       }
     },
@@ -106,7 +106,7 @@
         "time": "2",
         "level": "Médio",
         "profissional": "Princípios e conceitos avançados.",
-        "link": "none",
+        "link": "nenhum",
         "educate": "Coolify"
       }
     },
@@ -116,7 +116,7 @@
         "time": "4",
         "level": "Médio",
         "profissional": "Princípios e conceitos avançados.",
-        "link": "none",
+        "link": "nenhum",
         "educate": "GitHub"
       }
     },
@@ -126,7 +126,7 @@
         "time": "4",
         "level": "Médio",
         "profissional": "Princípios e conceitos avançados.",
-        "link": "none",
+        "link": "nenhum",
         "educate": "Git"
       }
     },
@@ -136,7 +136,7 @@
         "time": "4",
         "level": "Médio",
         "profissional": "Princípios e conceitos avançados.",
-        "link": "none",
+        "link": "nenhum",
         "educate": "Docker"
       }
     },
@@ -146,69 +146,50 @@
         "time": "2",
         "level": "Médio",
         "profissional": "Princípios e conceitos avançados.",
-        "link": "none",
+        "link": "nenhum",
         "educate": "Angular"
       }
     }
   ],
-  "phrase":"Sometimes, it's the simplest yet ingenious solutions that make the difference.",
-  "description": "Passionate about technology, solving problems with code, and building digital experiences that make a difference. From front-end to back-end, I turn ideas into functional solutions, always striving for learning and innovation. Each line of code is a step in the journey, leaving a part of myself in every project. 🚀",
-  "section": "Current section {count}",
-  "downloader": "Download Resume",
+  "frase": "Às vezes, são as soluções mais simples e engenhosas que fazem a diferença.",
+  "description": "Apaixonado por tecnologia, resolver problemas com código e construir experiências digitais que fazem a diferença. Do front-end ao back-end, transformo ideias em soluções funcionais, sempre buscando aprendizado e inovação. Cada linha de código é um passo na jornada, deixando um pouco de mim em cada projeto. 🚀",
+  "section": "Seção atual {count}",
+  "downloader": "Baixar Currículo",
   "downloadlink": "https://github.com/manassesCahunda/curriculo/raw/main/curriculoEnglish.pdf",
   "avatar": "https://github.com/manassesCahunda/curriculo/raw/main/avatar.png",
-  "profession":"DEVELOP FULLSTACK",
-  "develop":"Stack Developer",
-  "present":"I AM MANASSES CAHUNDA",
+  "profession": "DESENVOLVEDOR FULLSTACK",
+  "develop": "Desenvolvedor Fullstack",
+  "present": "EU SOU MANASSES CAHUNDA",
   "project": [
     {
       "id": "1",
       "title": "Projeto Electron com API Dolphin Anti e Puppeteer",
       "description": "Este é um novo projeto Electron, configurado para integrar a API Dolphin Anti e usar o Puppeteer para automação de navegador.",
-      "date": " Outubro 2024",
-      "type": "work",
+      "date": "Outubro 2024",
+      "type": "trabalho",
       "technologies": ["Electron", "Puppeteer"],
       "imageUrl": "https://github.com/manassesCahunda/Pixier/raw/main/imagem.png",
-      "code":"https://github.com/manassesCahunda/Pixier"
-    },{
+      "code": "https://github.com/manassesCahunda/Pixier"
+    },
+    {
       "id": "2",
       "title": "FacePointModel",
-      "description": "é um projeto de demonstração que utiliza o framework Next.js para criar uma aplicação web que exibe detecção de malha facial em tempo real usando a biblioteca MediaPipe. Além disso, a aplicação integra uma cena 3D utilizando Three.js para uma visualização interativa adicional.",
+      "description": "Projeto de demonstração que utiliza Next.js para exibir detecção de malha facial em tempo real com MediaPipe e integra uma cena 3D com Three.js para visualização interativa.",
       "date": "Outubro 2024",
-      "type": "education",
-      "technologies": ["Next.js", "three.js","MediaPipe","React"],
+      "type": "educação",
+      "technologies": ["Next.js", "three.js", "MediaPipe", "React"],
       "imageUrl": "https://github.com/manassesCahunda/FacePointModel/raw/main/demo1.png",
-      "code":"https://github.com/manassesCahunda/FacePointModel"
+      "code": "https://github.com/manassesCahunda/FacePointModel"
     },
     {
       "id": "3",
-      "title": "Bumba aplicativo de prestação de serviços",
-      "description": "Desenvolvemos um aplicativo inovador de prestação de serviços utilizando React Native, uma das tecnologias mais modernas para o desenvolvimento de aplicativos móveis. Este sistema conecta prestadores de serviços com clientes em busca de soluções específicas, facilitando o cadastro de serviços e a busca por prestadores na sua área. Com uma interface intuitiva e funcionalidades avançadas.",
-      "date": "Agosto 2023  -  janeiro 2024",
-      "type": "education",
-      "technologies": ["React Native", "Redux","Firebase","React Navigation","Mapbox/Google Maps","Expo"],
+      "title": "Bumba - Aplicativo de Prestação de Serviços",
+      "description": "Aplicativo inovador que conecta prestadores de serviços com clientes, desenvolvido em React Native.",
+      "date": "Agosto 2023 - Janeiro 2024",
+      "type": "educação",
+      "technologies": ["React Native", "Redux", "Firebase", "React Navigation", "Mapbox/Google Maps", "Expo"],
       "imageUrl": "https://github.com/manassesCahunda/bumbas/raw/main/Group.png",
-      "code":"https://github.com/manassesCahunda/bumbas"
-    },
-  {
-      "id": "4",
-      "title": "Neo Smart Business",
-      "description": "E uma plataforma para gerenciar anexo de transacões que utiliza Ai para extrair e organizar o conteúdo aramenad tanto ficheiro quanto so dados simplemente enviando os anexo pela caixa email ou no painel da plataforma os dados vem integrado assisnte virtual -Ai para whatsApp",
-      "date": "Novembro 2024  -  janeiro 2025",
-      "type": "education",
-      "technologies": ["Next.js", "trpc","drizzle","supabase","nodemailer","turbo monorepo"],
-      "imageUrl": "https://github.com/manassesCahunda/neo/raw/main/login.png",
-      "code":"https://github.com/manassesCahunda/neo"
-    },
-  {
-      "id": "5",
-      "title": "Portifolio para Dev",
-      "description": "E portifólio que usando para apresentar o desenvolver do em se",
-      "date": "Marco 2025",
-      "type": "work",
-      "technologies": ["Next.js","three","next-intl"],
-      "imageUrl": "https://github.com/manassesCahunda/DEV-Portifolio/raw/main/about.png",
-      "code":"https://github.com/manassesCahunda/DEV-Portifolio"
+      "code": "https://github.com/manassesCahunda/bumbas"
     }
   ]
 }
