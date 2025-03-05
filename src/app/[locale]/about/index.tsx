@@ -18,7 +18,7 @@ export const About = () => {
           <div style={{ width: "78%", height: 30 }}>
             <p className="text-lg" style={{ textAlign: "justify" }}>{t('description')}  </p>
             <br />
-            <p className="text-lg" style={{ textAlign: "justify" }}>{t('frase')}  </p>
+            <p className="text-lg" style={{ textAlign: "justify" }}>{t('phrase')}  </p>
             <br />
             <a className="flex bg-black w-[200px] h-[50px] p-3 border" href={t('downloadlink')} >
               <CircleArrowDown className="w-7 h-7 pr-2" /> 
