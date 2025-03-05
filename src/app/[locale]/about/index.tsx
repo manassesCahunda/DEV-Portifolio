@@ -16,7 +16,7 @@ export const About = () => {
         <div className="flex flex-col justify-center items-center space-y-4">
           <Prompt  present={t('present')} profession={t('profession')}/> 
           <div style={{ width: "78%", height: 30 }}>
-            <p className="text-lg" style={{ textAlign: "justify" }}>  {t('description')}  </p>
+            <p className="text-lg" style={{ textAlign: "justify" }}>{t('description')}  </p>
             <br />
             <a className="flex bg-black w-[200px] h-[50px] p-3 border" href={t('downloadlink')} >
               <CircleArrowDown className="w-7 h-7 pr-2" /> 
